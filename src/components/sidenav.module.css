@@ -20,28 +20,28 @@
     color: #B2BAC2;
     text-decoration: none;
     }
-     
-    .linkText {
-        padding-left: 16px;
+
+.linkText {
+    padding-left: 16px;
     }
-     
-    .linkTextClosed {
-        composes: linkText;
-        visibility: hidden;
+    
+.linkTextClosed {
+    composes: linkText;
+    visibility: hidden;
     }
-     
-    .sideitem:hover {
-        background-color: #244f7d1c;
+
+.sideitem:hover {
+    background-color: #244f7d1c;
     
     }
-     
-    .menuBtn {
-        align-self: center;
-        align-self: flex-start; 
-        justify-self: flex-end;
-        color: #B2BAC2;
-        background-color: transparent;
-        border: none;
-        cursor: pointer;
-        padding-left: 20px;
+
+.menuBtn {
+    align-self: center;
+    align-self: flex-start; 
+    justify-self: flex-end;
+    color: #B2BAC2;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding-left: 20px;
     }
